@@ -7,10 +7,9 @@ this project is used to familiarize students with version control software
         /            \
   _____/~~~~~~~~~~~~~~\______
      ()                ()  
-      \    >       <   /
-       \       U      /
-        \    "" ""   /
-         | WWWWWWWWW |
-          |   MMMM  | 
-          |         |
-           \_______/
+     $\    >       <   /$
+     $ \       U      / $
+     $  \   """ """  /  $
+         00   ___  00  
+          000    000 
+           00000000
